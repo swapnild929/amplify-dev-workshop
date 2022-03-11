@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifydevapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/swapnil.dukhande/AWSLab/amplify-dev-app/amplify/backend/api/amplifydevapp/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
